@@ -1,2 +1,2 @@
-# Lab-Manual-ptractical-sem-1-ME
+# Lab-Manual-practical-ME
 All stuff related to college-work and practicals
